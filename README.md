@@ -10,7 +10,6 @@
 - [Google Cybersecurity](https://coursera.org/share/021ee785327cfcadcbc7d37d50803b32)
 - [Google UX Design](https://coursera.org/share/47cf115a27b5efc0c76b96271ecb1597)
 - [Google IT Support](https://coursera.org/share/57220eebc8ab8b79e63f93beaaf8ea62)
-- [Data Engineering, Big Data, and Machine Learning on GCP](https://coursera.org/share/184a26e7bf0e5d8d7efe54828c3662e7)
 - [Network Defense Essentials (NDE)](https://coursera.org/share/96d24c587624296ba068076baf8c7e3c)
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/share/739b109d5c5561bcb907f0d5737da780)
 - [Securing Software, Data and End Points](https://coursera.org/share/ceabc4acddcbdf58b64fd9cd0c2e8bea)
