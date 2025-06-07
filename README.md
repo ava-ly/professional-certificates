@@ -1,5 +1,4 @@
 # Professional Certificates
-- Harvard CS50's Introduction to Computer Science | Ongoing
 - [Machine Learning](https://coursera.org/share/a462db4b532586869f14388ee49c8d24)
 - [IBM Data Science](https://coursera.org/share/e8e37613beb7e64392a3024e6d7daab1)
 - [IBM DevOps and Software Engineering](https://coursera.org/share/ff1f3aef3ea3220f349fcaa2eb32394d)
@@ -15,3 +14,4 @@
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/share/739b109d5c5561bcb907f0d5737da780)
 - [Securing Software, Data and End Points](https://coursera.org/share/ceabc4acddcbdf58b64fd9cd0c2e8bea)
 - [Cybersecurity Compliance Framework, Standards & Regulations](https://coursera.org/share/49d9b6ca53d1618caad78321dbc14675)
+- Harvard CS50's Introduction to Computer Science | Ongoing
