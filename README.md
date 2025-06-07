@@ -1,4 +1,5 @@
 # Professional Certificates
+- [CoderSchool Data Science](coderschool-data-science-certificate.pdf)
 - [Machine Learning](https://coursera.org/share/a462db4b532586869f14388ee49c8d24)
 - [IBM Data Science](https://coursera.org/share/e8e37613beb7e64392a3024e6d7daab1)
 - [IBM DevOps and Software Engineering](https://coursera.org/share/ff1f3aef3ea3220f349fcaa2eb32394d)
