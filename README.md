@@ -1,4 +1,5 @@
 # Professional Certificates
+- [Google Machine Learning](https://g.dev/ava-ly)
 - [CoderSchool Data Science](coderschool-data-science-certificate.pdf)
 - [Machine Learning](https://coursera.org/share/a462db4b532586869f14388ee49c8d24)
 - [IBM Data Science](https://coursera.org/share/e8e37613beb7e64392a3024e6d7daab1)
